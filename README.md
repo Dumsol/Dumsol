@@ -4,7 +4,7 @@
     <a href="https://www.facebook.com/profile.php?id=100009174255345">
       <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="[https://www.instagram.com/eu.philipe_](https://www.instagram.com/e.duardo.viana)/">
+    <a href="https://www.instagram.com/eu.philipe_/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
@@ -51,6 +51,8 @@ O **Nakta** não é apenas um produto, é a camada de infraestrutura e confianç
 ### 🛠️ Tech Stack & Cyber-Tools
 
 <div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node" width="40" height="40"/>&nbsp;
