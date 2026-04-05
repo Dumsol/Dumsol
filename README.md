@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif" height="150" width="300"/>
+  <img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif" height="175" width="600"/>
   <div id="badges">
     <a href="https://www.facebook.com/profile.php?id=100009174255345">
       <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -66,7 +66,6 @@ O **Nakta** não é apenas um produto, é a camada de infraestrutura e confianç
 
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Dumsol&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumsol&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
 </div>
 
 ---
