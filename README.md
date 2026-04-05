@@ -11,7 +11,7 @@
 
 ## Olá, meu nome é Eduardo.
 
-Sou do Brasil. Tenho 24 anos, barbudo e amante de programação e café ☕
+Sou do Brasil. Tenho 28 anos, barbudo e amante de programação e café ☕
 - :man_technologist:. Focando a cada dia em ser um Front-End melhor.
 - :seedling: Estudando front-end pelo Projeto One.
 ![Screenshot](projetoone.jpeg)
