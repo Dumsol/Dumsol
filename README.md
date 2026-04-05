@@ -1,34 +1,74 @@
 <div id="header" align="center">
-<img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif" height="150" width="300"/>
-<div id="badges">
-  <a href="https://www.facebook.com/profile.php?id=100009174255345">
-    <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/eu.philipe_/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  <img src="https://campuscode-site.s3-sa-east-1.amazonaws.com/newsletter/coding_pixels.gif" height="150" width="300"/>
+  <div id="badges">
+    <a href="https://www.facebook.com/profile.php?id=100009174255345">
+      <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="[https://www.instagram.com/eu.philipe_](https://www.instagram.com/e.duardo.viana)/">
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+  </div>
 </div>
 
-## Olá, meu nome é Eduardo.
+## ⚡ Eduardo Philipe | Architect & Founder
 
-Sou do Brasil. Tenho 28 anos, barbudo e amante de programação e café ☕
-- :man_technologist:. Focando a cada dia em ser um Front-End melhor.
-- :seedling: Estudando front-end pelo Projeto One.
-![Screenshot](projetoone.jpeg)
+Sou um desenvolvedor de software e empreendedor brasileiro focado na criação de ecossistemas digitais de alta escalabilidade. Como CEO da **Kosh Desenvolvimento de Softwares** e **APTBR Interactive**, minha missão é construir infraestruturas que eliminem o atrito entre a confiança e a transação.
+
+- 🏗️ **Filosofia:** Projetos baseados em "Startlow" e "Jardim Japonês" — baixa manutenção, alto impacto e crescimento orgânico.
+- 🎨 **Design:** Especialista em UI/UX **Cyber-Corporate** (Dark mode, glassmorphism e interfaces minimalistas de alta tecnologia).
+- 🏹 **Hobbies:** Arqueria, Boxe e Xadrez (Equilíbrio entre mente estratégica e impacto físico).
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+### 💠 Nakta Core: The Trust Engine
+O **Nakta** não é apenas um produto, é a camada de infraestrutura e confiança para todos os meus empreendimentos.
+
+* **Nakta Escrow:** Garantia de execução de acordos (o dinheiro só circula quando o trato é cumprido).
+* **SNBL (Save Now Buy Later):** Sistema de compra programada, eliminando o risco de calote e endividamento.
+* **A2A (App-to-App):** Substituição de PDVs físicos por pagamentos diretos entre aplicações.
+* **Marketplace Verticals:** Base para sub-produtos como **Freela**, **BlackFind**, **Collab**, **Closer** e **Pronto**.
+
+---
+
+### 🌌 Gaming & Immersive Experiences
+
+* 🎮 **Saphage:** MOBA 3v3 competitivo com foco em mecânicas profundas e comunidade. (Alpha Fechado em **18/05/2026**).
+* 🔗 **Proxy Link:** Plataforma de streaming adulta de luxo com estética *Cyberpunk High-Tech*. Utiliza conceitos de **Neural Interaction** e gamificação de alta precisão (Play-to-Connect).
+
+---
+
+### 💼 Business & Logistics Ecosystem
+
+* 💳 **Finmly:** Carteira financeira white-label para criadores de conteúdo e empresas.
+* 🛒 **GP Certo:** Marketplace adulto profissionalizado, focado em UX de elite e camadas rigorosas de segurança.
+* 🤖 **Chama Dudu:** Automação de delivery via WhatsApp para a indústria de bebidas.
+* 📈 **KoshGrowthOS:** Inteligência de mercado e prospecção B2B automatizada.
+* 🚚 **Leva Aí:** MVP de gestão logística e rastreamento de frotas em tempo real.
+* 📟 **Opemly & Tagmly:** Soluções de PDV e gestão de negociação de dívidas integradas ao ecossistema Nakta.
+
+---
+
+### 🛠️ Tech Stack & Cyber-Tools
+
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
-### :fire: Meus status
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dumsol&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumsol&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔥 System Status
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Dumsol&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumsol&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+</div>
+
 ---
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
+</div>
